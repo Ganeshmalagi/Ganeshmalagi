@@ -1,7 +1,7 @@
  Hi there👋, I'm Ganesh Malagi
 
 # 💫 About Me:
-"I'm a mechanical engineer 🤓<br>with a passion for coding 😎<br>& a desire to transition into software engineer. <br>With a strong foundation in problem-solving <br>and analytical thinking,<br> I'm excited to apply my skills to build innovative software<br> solutions. I'm proficient in programming languages<br> [C++ , Phython, java script & etc..] <br>I'm looking for opportunities to collaborate, learn, <br>and grow as a software engineer 😊."
+"I'm a mechanical engineer 🤓<br>with a passion for coding 😎<br>And a desire to transition into software engineer. <br>With a strong foundation in problem-solving and analytical thinking,<br> I'm excited to apply my skills to build innovative software solutions. I'm proficient in programming languages<br> [C++ , Phython, java script & etc..] <br>I'm looking for opportunities to collaborate, learn, <br>and grow as a software engineer 😊."
 
 
 ## 🌐 Socials:
